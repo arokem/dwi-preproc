@@ -10,10 +10,7 @@ Needs to be able to do the following:
 
 Dependencies
 ------------
-
-Probably FSL
-
-Maybe nipype.
+For now, nothing.
 
 
 Steps taken by dtiInit:
