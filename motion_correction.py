@@ -1,14 +1,8 @@
-
-# coding: utf-8
-
-# In[40]:
-
 import nibabel as nb
 import nipy
 import numpy as np
 import matplotlib.pyplot as plt
 import nipy.algorithms.registration
-import ip_utils
 
 
 # In[41]:
